@@ -12,4 +12,4 @@ To create NFTs, you will need to adventure across the exotic lands to grow plant
 
 **Please visit the following link for all details:**
 
-https://app.gitbook.com/s/1qlIKz5Y5TYwEumyz5xM/
+https://joy-dom.gitbook.io/joydom-social-gamefi-platform/
