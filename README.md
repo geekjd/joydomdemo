@@ -10,6 +10,6 @@ JOYDOM warmly embraces everyone to come to be their own creator to play-to-earn 
 Notice that all the objects you scavenge or collect in the game are indeed NFTs or fungible tokens on the blockchains.
 To create NFTs, you will need to adventure across the exotic lands to grow plants, harvest, lumber, mine, fish, battle as well as collecting all the necessary materials in generating an NFT.  In other words, you will have to play-to-earn hard for them!
 
-**Please visit the following link for all details.**
+**Please visit the following link for all details:**
 
 https://app.gitbook.com/s/1qlIKz5Y5TYwEumyz5xM/
