@@ -3,7 +3,7 @@
 JOYDOM is a highly groundbreaking community-driven GameFi, which combines together NFTs, gaming, DeFi, and social networking. 
 Players can complete in-game tasks, unlock various prizes, and freely build and personalize their own homestead.
 In addition to socializing, cruising, adventuring, and fighting the monsters, they can also construct buildings, drive a car, fly an airplane, as well as planting, fishing, and petting.
-JOYDOM warmly embraces everyone to come to be their own creator to play-to-earn together with creating and sharing in the community.
+JOYDOM warmly embraces everyone to come to be their own creator to play-to-earn, together with creating and sharing in the community.
 
 **Gaming, Owning and Creating**
 
